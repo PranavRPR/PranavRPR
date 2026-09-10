@@ -1,98 +1,144 @@
+<!-- =========================
+     PROFILE BANNER
+========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Pranav Ramraje
+<img src="./assets/profile-banner.png" width="100%" alt="Pranav Ramraje - Developer Banner"/>
 
-### Full Stack Java Developer | M.Sc. Computer Science
+<br/>
 
-Building real-world applications with **Java, Spring Boot, React, PostgreSQL, REST APIs and AI/ML**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Real-World+Software+Applications;AI+%2F+Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/PranavRPR">
-    <img src="https://img.shields.io/github/followers/PranavRPR?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/PranavRPR?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-raynag-ramraje-489630251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/PranavRPR">
+<img src="https://img.shields.io/badge/GitHub-PranavRPR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranav-raynag-ramraje-489630251/">
+<img src="https://img.shields.io/badge/LinkedIn-Pranav%20Ramraje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PranavRPR?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 Hi, I'm Pranav Ramraje
+
+### Full Stack Java Developer | M.Sc. Computer Science
 
 I'm an **M.Sc. Computer Science student and Full Stack Java Developer** focused on building practical, scalable and business-oriented software applications.
 
-I enjoy turning real-world requirements into complete applications, with a strong interest in:
-
-- 🔹 Backend Development
-- 🔹 Spring Boot & REST APIs
-- 🔹 Database Design
-- 🔹 Authentication & Authorization
-- 🔹 Full Stack Web Development
-- 🔹 AI / Machine Learning
-- 🔹 Application Architecture
-- 🔹 Cloud & Deployment
-
-I'm continuously improving my development skills by building real-world projects and exploring modern software engineering practices.
+I enjoy transforming real-world requirements into complete software systems using modern backend, frontend, database and cloud technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### 💻 Languages
+- ☕ Strong focus on **Java & Spring Boot**
+- 🔌 Building **REST APIs and backend systems**
+- 🗄️ Interested in **PostgreSQL & database architecture**
+- ⚛️ Developing modern applications with **React**
+- 🤖 Exploring **AI / Machine Learning**
+- 🐳 Learning **Docker & cloud deployment**
+- ☁️ Exploring **AWS and scalable architectures**
+- 🧠 Interested in **system design and application architecture**
+- 🚀 Always building real-world projects
+
+<br/>
+
+> **Build. Learn. Improve. Repeat.**
+
+---
+
+# 🛠️ Technology Stack
+
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
 </p>
 
-### 🎨 Frontend
+**Java • Spring Boot • Spring Security • Spring Data JPA • REST APIs • FastAPI**
+
+---
+
+## 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,angular" />
 </p>
 
-### 🗄️ Database
+**React • Angular • HTML5 • CSS3 • JavaScript • TypeScript**
+
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
 </p>
 
-### ☁️ Tools & DevOps
+**PostgreSQL • MySQL • Redis • SQL • Database Design**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
-</p>
+---
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-**Machine Learning:** XGBoost • LSTM • Model Development • Data Analysis
+**PyTorch • XGBoost • LSTM • Machine Learning • Data Analysis**
+
+---
+
+## ☁️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" />
+</p>
+
+**Git • GitHub • Docker • AWS • Linux • VS Code • Postman**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 RPR Trades — Import / Export Marketplace
+<div align="center">
 
-A full-stack trade management platform designed to manage the complete importer-exporter business workflow.
+<table>
+<tr>
 
-### Key Features
+<td width="33%" valign="top">
+
+<h3 align="center">🏢 RPR Trades</h3>
+
+<p align="center">
+<strong>Import / Export Marketplace</strong>
+</p>
+
+<p>
+A full-stack trade management platform designed to manage importer, exporter and admin workflows.
+</p>
+
+<strong>Key Features</strong>
 
 - 👤 Importer & Exporter Registration
-- 🔐 Authentication & Role-Based Authorization
+- 🔐 Authentication & Authorization
 - 📦 Product Management
 - 🛒 Order Management
 - 💳 Payment Management
@@ -101,76 +147,162 @@ A full-stack trade management platform designed to manage the complete importer-
 - 👨‍💼 Admin Monitoring
 - 📊 Business Reports
 
-**Tech Stack**
+<p>
 
-`Java` `Spring Boot` `REST API` `PostgreSQL` `Thymeleaf` `Bootstrap`
+<code>Java</code>
+<code>Spring Boot</code>
+<code>REST API</code>
+<code>PostgreSQL</code>
+<code>Thymeleaf</code>
+<code>Bootstrap</code>
 
-🔗 **[View Project](https://github.com/PranavRPR/rprtrades)**
+</p>
 
----
+<p align="center">
 
-## 🤖 AI Recruitment ATS
+<a href="https://github.com/PranavRPR/rprtrades">
+<img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
-An AI-powered Applicant Tracking System designed to manage recruitment workflows and candidate applications.
+</p>
 
-### Key Features
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI Recruitment ATS</h3>
+
+<p align="center">
+<strong>AI-Powered Recruitment System</strong>
+</p>
+
+<p>
+An Applicant Tracking System designed to manage recruitment workflows, candidates, jobs and applications.
+</p>
+
+<strong>Key Features</strong>
 
 - 👤 Candidate Management
 - 💼 Job Management
-- 📄 Resume / Application Processing
-- 🔐 Authentication & Authorization
+- 📄 Application Processing
+- 🔐 Authentication
 - 🏢 Recruiter Workflow
 - 🤖 AI / ML Integration
 - 📊 Recruitment Management
+- 📈 Recruitment Reports
 
-**Tech Stack**
+<p>
 
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `REST API` `AI/ML`
+<code>Java</code>
+<code>Spring Boot</code>
+<code>JPA</code>
+<code>PostgreSQL</code>
+<code>REST API</code>
+<code>AI/ML</code>
 
-🔗 **[View Project](https://github.com/PranavRPR/recruitment-ats)**
+</p>
 
----
+<p align="center">
 
-## 📈 Trading Platform
+<a href="https://github.com/PranavRPR/recruitment-ats">
+<img src="https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
-A comprehensive trading platform combining market analysis, real-time market data and trading functionality.
+</p>
 
-### Core Areas
+</td>
 
-- 📊 Real-time Market Data
-- 🕯️ Historical Candlestick Data
-- 📈 TradingView-style Charts
-- 🔌 WebSocket Market Streams
+<td width="33%" valign="top">
+
+<h3 align="center">📈 Trading Platform</h3>
+
+<p align="center">
+<strong>Market Analysis & Trading</strong>
+</p>
+
+<p>
+A comprehensive trading platform combining real-time market data, advanced charts, trading execution and AI/ML strategies.
+</p>
+
+<strong>Core Areas</strong>
+
+- 📊 Real-Time Market Data
+- 🕯️ Historical Candles
+- 📈 TradingView Charts
+- 🔌 WebSocket Streams
 - 💱 Binance Integration
-- 💹 Forex / MT5 Integration
-- 🤖 AI / ML Trading Strategies
-- 🧠 LSTM & XGBoost
+- 💹 MetaTrader 5
+- 🤖 AI/ML Strategies
 - ⚠️ Risk Management
 - 🧪 Backtesting
 
-**Tech Stack**
+<p>
 
-`Python` `FastAPI` `React` `PostgreSQL` `TimescaleDB` `Redis` `Binance` `MetaTrader 5` `PyTorch` `XGBoost` `Docker` `AWS`
+<code>Python</code>
+<code>FastAPI</code>
+<code>React</code>
+<code>PostgreSQL</code>
+<code>Redis</code>
+<code>AWS</code>
 
-🔗 **[View GitHub Projects](https://github.com/PranavRPR)**
+</p>
 
----
+<p align="center">
 
-# 📊 GitHub Activity
+<a href="https://github.com/PranavRPR">
+<img src="https://img.shields.io/badge/View%20Projects-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
-<div align="center">
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavRPR&theme=github-compact&hide_border=true" />
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PranavRPR&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=PranavRPR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavRPR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PranavRPR&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavRPR&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 💻 GitHub Contribution Calendar
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/PranavRPR/PranavRPR/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -179,16 +311,30 @@ A comprehensive trading platform combining market analysis, real-time market dat
 # 🎯 Current Focus
 
 ```text
-☕ Java & Spring Boot
-        ↓
-🔌 REST API Development
-        ↓
-🗄️ PostgreSQL & Database Design
-        ↓
-⚛️ React & Full Stack Development
-        ↓
-🤖 AI / Machine Learning
-        ↓
-🐳 Docker & Cloud Deployment
-        ↓
-🚀 Production-Ready Applications
+                    🚀 DEVELOPMENT JOURNEY
+
+                         Java
+                           │
+                           ▼
+                    Spring Boot
+                           │
+                           ▼
+                      REST APIs
+                           │
+                           ▼
+                  PostgreSQL / Redis
+                           │
+                           ▼
+                    React Frontend
+                           │
+                           ▼
+                  Full Stack Systems
+                           │
+                           ▼
+                   AI / Machine Learning
+                           │
+                           ▼
+                    Docker & AWS
+                           │
+                           ▼
+                Production Applications
