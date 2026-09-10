@@ -160,26 +160,17 @@ A comprehensive trading platform combining market analysis, real-time market dat
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=PranavRPR&theme=github-compact&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavRPR&theme=github-compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Contributions
+# 🔥 GitHub Streak
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PranavRPR&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavRPR&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
