@@ -249,7 +249,7 @@ A comprehensive trading platform combining real-time market data, advanced chart
 
 <p align="center">
 
-<a href="[https://github.com/PranavRPR](https://github.com/PranavRPR/trading-platform.git)">
+<a href="https://github.com/PranavRPR/trading-platform.git">
 <img src="https://img.shields.io/badge/View%20Projects-2F81F7?style=for-the-badge&logo=github"/>
 </a>
 
